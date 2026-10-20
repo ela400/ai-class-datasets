@@ -1,0 +1,2 @@
+cifar-10-python.tar.gz filter=lfs diff=lfs merge=lfs -text
+CIFAR-10-images-master.tar.gz filter=lfs diff=lfs merge=lfs -text
